@@ -1,6 +1,6 @@
 # Flipper Bird
 
-A Flappy Bird-style game built with Python and Pygame.
+A lightweight Flappy Bird-style arcade game built with Python and Pygame. Navigate the bird through gaps between pipes, avoid collisions, and try to achieve the highest score. The project includes custom sprites, sound effects, background music, and simple keyboard and mouse controls.
 
 ## Requirements
 
